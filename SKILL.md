@@ -1,5 +1,5 @@
 ---
-name: "restartx-jira-skills"
+name: "devops-jira-skills"
 version: "1.1.0"
 display_name: "Jira 项目协同技能"
 display_name_en: "Jira DevOps Skill"
