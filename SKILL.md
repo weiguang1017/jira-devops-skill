@@ -1,6 +1,11 @@
 ---
-name: jira-skills
-description: Manage Jira issues from the command line — read, search (JQL), create, comment on, assign, and transition issues. Use whenever the user wants to query a Jira ticket, file a bug or task, move an issue across its workflow, leave a comment, or run a JQL search against Jira Cloud, Server, or Data Center. 中文触发场景：查 Jira 单据、JQL 查询、建缺陷/任务、加评论、流转状态、指派经办人。
+name: "restartx-jira-skills"
+version: "1.1.0"
+display_name: "Jira 项目协同技能"
+display_name_en: "Jira DevOps Skill"
+description: "Manage Jira issues from the command line — read, search (JQL), create, comment on, assign, and transition issues. Use whenever the user wants to query a Jira ticket, file a bug or task, move an issue across its workflow, leave a comment, or run a JQL search against Jira Cloud, Server, or Data Center. 中文触发场景：查 Jira 单据、JQL 查询、建缺陷/任务、加评论、流转状态、指派经办人。"
+description_zh: "用命令行直接操作 Jira：查单据、JQL 搜索、建单、评论、状态流转、指派经办人。兼容 Jira Cloud 与 Server/Data Center 7.0+。"
+description_en: "Operate Jira from the command line: read issues, run JQL searches, create issues, comment, transition and assign. Works with Jira Cloud and Server/Data Center 7.0+."
 ---
 
 # Jira 技能（命令行实操）
